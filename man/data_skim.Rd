@@ -11,7 +11,7 @@ data_skim(data)
 }
 \description{
 This function returns data frame that shows 
-1) features of the input data and 
+1) features(i.e. variables, column names) of the input data and 
 2) class, number of unique values, and number of NA values for each feature.
 The function may be used as a supplement to summary(), str() in basic R package and glimpse() in dplyr package
 to gain basic understanding of given dataset before conducting cleaning and processing missing values.
