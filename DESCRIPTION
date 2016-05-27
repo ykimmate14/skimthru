@@ -2,8 +2,7 @@ Package: skimthru
 Title: Skimming thru the data in hands.
 Version: 0.0.0.9000
 Authors@R: person(email = "ykimmate14@gmail.com", role = c("aut", "cre"))
-Description: skimthru provides convenient functions to bain basic understanding of data. The package can be used as
-supplementary to basic R package's summary(), str() and dplyr package's glimpse() function. 
+Description: skimthru provides convenient functions to bain basic understanding of data. The package can be used as supplementary to basic R package's summary(), str() and dplyr package's glimpse() function. 
 Depends:
     R (>= 3.2.1)
 License: .
